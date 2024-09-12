@@ -1,0 +1,9 @@
+argparse
+numpy
+scipy
+matplotlib
+mahotas
+scikit-learn
+scikit-image
+opencv-contrib-python
+mediapipe
